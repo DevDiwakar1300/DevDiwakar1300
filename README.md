@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently pursuing Bachelor of Technology in Computer Science & Engineering in specialization with Artificial Intelligence & Machine Learning
+ 🔭 I’m currently pursuing Bachelor of Technology in Computer Science & Engineering with specialization in Artificial Intelligence & Machine Learning
  
  🌱 I’m currently improving the skills in my own field.
 
