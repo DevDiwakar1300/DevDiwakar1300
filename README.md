@@ -14,7 +14,6 @@
  
  🌱 I’m currently improving the skills in my own field.
 
-💬 Ask me about **Node.js, React, Firebase... or anything **
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
